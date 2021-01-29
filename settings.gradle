@@ -1,0 +1,6 @@
+rootProject.name = 'spring'
+include 'mvc'
+include 'webflux'
+include 'api'
+include 'webflux-router'
+
